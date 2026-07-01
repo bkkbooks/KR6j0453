@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0453/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大威怒烏芻澁麼儀軌經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1225.xml
+    old_id: T21n1225
+hash: sha256:d28bdc02b447d784a6d98af598a5cf3b8aa1669179fc4bf25bd54642ec49ac21
