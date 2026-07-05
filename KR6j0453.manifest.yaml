@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0453_000.yaml, hash: 'sha256:d28bdc02b447d784a6d98af598a5cf3b8aa1669179fc4bf25bd54642ec49ac21'}
-  - {seq: 1, filename: KR6j0453_001.yaml, hash: 'sha256:cc13bae9c4fa60e49ef2599f95594cfa2db2dee112bffc7392ae8ea92edc0e7f'}
+  - {seq: 1, filename: KR6j0453_001.yaml, hash: 'sha256:9343f2532d7016d0f97cc8a4241edf9a22c89daa4391d74d1360da55e59d4a97'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0453_001.markers.yaml, hash: 'sha256:07994e7dbceb3a71b842452663a2303ccd683dbc55d54b0eea197683872c1058'}
+  - {seq: 0, role: markers, filename: assets/KR6j0453_000.markers.yaml, hash: 'sha256:0f32e46f1d97b9dc5e83326d3c98496f0edebd210638e7f7abde2512952dc740'}
+  - {seq: 1, role: markers, filename: assets/KR6j0453_001.markers.yaml, hash: 'sha256:284a1db75b6a9de9cd6f9a4a9a0c84c06d8840e25a95d6a70f0782a647483939'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 大威怒烏芻澁麼儀軌經
   type: juan
   level: 1
-hash: sha256:287bd808e3ce6853bd11699c947eb637c70a72058a6cb28134dfbe6330b636de
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:12fc1c67087670105fea9cc3f911ec3a0c49361ff45735c8a7ecc3d3675e3e7b
