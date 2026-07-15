@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0453/v1
 canonical_location: https://kanripo.org/bkk/KR6j0453/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大威怒烏芻澁麼儀軌經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0453_000.yaml, hash: 'sha256:d28bdc02b447d784a6d98af598a5cf3b8aa1669179fc4bf25bd54642ec49ac21'}
-  - {seq: 1, filename: KR6j0453_001.yaml, hash: 'sha256:9343f2532d7016d0f97cc8a4241edf9a22c89daa4391d74d1360da55e59d4a97'}
+  - {seq: 1, filename: KR6j0453_001.yaml, hash: 'sha256:f6ce7627b19d2c1942b69f68755bd2ca051f647ea5703f9feae057f39ce89efa'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0453_000.markers.yaml, hash: 'sha256:0f32e46f1d97b9dc5e83326d3c98496f0edebd210638e7f7abde2512952dc740'}
-  - {seq: 1, role: markers, filename: assets/KR6j0453_001.markers.yaml, hash: 'sha256:284a1db75b6a9de9cd6f9a4a9a0c84c06d8840e25a95d6a70f0782a647483939'}
+  - {seq: 1, role: markers, filename: assets/KR6j0453_001.markers.yaml, hash: 'sha256:b35099b3588986c090821a2562a33caa7695ecd66368b9c82beeb317238bd5d2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 大威怒烏芻澁麼儀軌經
   type: juan
   level: 1
-hash: sha256:12fc1c67087670105fea9cc3f911ec3a0c49361ff45735c8a7ecc3d3675e3e7b
+hash: sha256:bac4a43dd90ce3ab8d1cf62c61c75c5cbe9a6a751805e406405948e29b12feb8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
